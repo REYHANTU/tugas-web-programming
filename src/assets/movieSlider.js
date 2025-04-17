@@ -1,0 +1,16 @@
+export const movieSlider = [
+    { image: 'https://ontapsportsnet.com/.image/t_share/MTkwOTE2NDM4NzU0OTI4MDA5/squid-game-cover-netflix.jpg' },
+    { image: 'https://th.bing.com/th/id/OIP.suqUQ8xMSkVB5nK_NMzGlAHaLH?rs=1&pid=ImgDetMain' },
+    { image: 'https://th.bing.com/th/id/OIP.Lk8Qr_BasX7zErE_8oS_nwHaKg?rs=1&pid=ImgDetMain' },
+    { image: 'https://cdn1-production-images-kly.akamaized.net/cvH2TemToNKssJ33AtCwIzArj6k=/640x853/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5157048/original/041929400_1741577469-when-life-gives-you-tangerines-poster.jpeg' },  
+    { image: 'https://th.bing.com/th/id/OIP.9uXF60i81hi6Exleyu54HQHaK-?rs=1&pid=ImgDetMain' },
+    { image: 'https://th.bing.com/th/id/OIP.7_qck6DgJ9xU2hpVQqkeoQHaLG?rs=1&pid=ImgDetMain' }, 
+    { image: 'https://th.bing.com/th/id/OIP.oFqq-8RdgFZ3eYpkeCoscgHaJ4?rs=1&pid=ImgDetMain' }, 
+    { image: 'https://th.bing.com/th/id/OIP.XebW3in1PLOWcNzBqigDOAHaLH?rs=1&pid=ImgDetMain' }, 
+    { image: 'https://th.bing.com/th/id/OIP.jxp4IgpG3YhjtAkcodVsrAHaK-?rs=1&pid=ImgDetMain' }, 
+    { image: 'https://www.themoviedb.org/t/p/original/hEoGlyaJxdz7Hmiso1dELGe9mzi.jpg' }, 
+    { image: 'https://th.bing.com/th/id/OIP.vcgpjxcMOiZ-5OHIUB-fTAHaJ4?rs=1&pid=ImgDetMain' }, 
+    { image: 'https://th.bing.com/th/id/OIP.Hijsh5trVZH0lvvbzVVZ9AHaLH?rs=1&pid=ImgDetMain' }, 
+    { image: 'https://th.bing.com/th/id/OIP.73SG9-j2EMH3k-ekDwfqzwHaLH?rs=1&pid=ImgDetMain' }, 
+    { image: 'https://th.bing.com/th/id/OIP.ObuUWJK5OAYnnZoysGVaEgHaKy?rs=1&pid=ImgDetMain' }, 
+]
